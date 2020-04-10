@@ -7,8 +7,8 @@ Here is the design of my 8s LiPo charger. The specs are:
 - high efficiency (removed most diodes)
 
 # The design is devided into several sections which are simulated in LTSpice:
--Voltage conversion stage
---buck boost circuit
--current measurement
--voltage measurement
--output switching matrix to access the individual cells
+- Voltage conversion stage
+-- buck boost circuit
+- current measurement
+- voltage measurement
+- output switching matrix to access the individual cells
