@@ -6,7 +6,7 @@ Here is the design of my 8s LiPo charger. The specs are:
 - balanced charging (individual cell charging)
 - high efficiency (removed most diodes)
 
-* The design is devided into several sections which are simulated in LTSpice:
+# The design is devided into several sections which are simulated in LTSpice:
 -Voltage conversion stage
 --buck boost circuit
 -current measurement
